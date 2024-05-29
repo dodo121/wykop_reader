@@ -1,0 +1,5 @@
+read posts from tag
+clever new posts loading
+read posts from certain point in time
+login on account
+add plus
